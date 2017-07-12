@@ -1,0 +1,23 @@
+{
+  "name": "postcss-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitin1104/postcss-playground.git"
+  },
+  "author": "Nitin Bhatnagar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nitin1104/postcss-playground/issues"
+  },
+  "homepage": "https://github.com/nitin1104/postcss-playground#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^7.0.0"
+  }
+}
